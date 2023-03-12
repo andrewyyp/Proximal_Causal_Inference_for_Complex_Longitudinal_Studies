@@ -1,1 +1,1 @@
-Run the simulation file, there are comments inside teaching how to run.
+Run the simulation.R file, there are comments inside teaching how to run.
