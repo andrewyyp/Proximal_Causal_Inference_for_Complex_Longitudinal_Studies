@@ -1,1 +1,1 @@
-Run the simulation file with different sample sizes N.
+Run the simulation.R file with different sample sizes N.
